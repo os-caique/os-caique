@@ -1,16 +1,22 @@
-## Hi there 👋
+# Desenvolvedor Backend Java | Spring Boot | APIs REST
 
-<!--
-**os-caique/os-caique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bacharel em Engenharia de Computação pelo IFPB voltado em desenvolvimento backend. Objetivo na construção de sistemas robustos e escaláveis, com sólidos conhecimentos em boas práticas de programação, arquitetura de software e documentação de código. Atualmente com foco em Java, mas consigo transpor minhas habilidades para quaisquer paradigmas lógicos.
 
-Here are some ideas to get you started:
+## 🛠 Stack Principal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Java**
+- Spring Boot 3 | Spring MVC | Spring Data JPA | Spring Security
+- Design de APIs RESTful (Swagger/OpenAPI)
+- Testes automatizados: JUnit 5, Mockito
+- Clean Code, SOLID e Design Patterns
+
+**Ferramentas**
+- MySQL, PostgreSQL
+- Hibernate | Flyway
+- Maven | Gradle
+- Git (Git Flow) | GitHub
+- Docker | CI/CD
+
+## 📫 Contato
+- LinkedIn: linkedin.com/in/caiqueos
+- Email: caique.os.dev@gmail.com
