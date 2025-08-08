@@ -1,4 +1,4 @@
-# Desenvolvedor Backend Java | Spring Boot | APIs REST
+# Desenvolvedor Backend
 
 Bacharel em Engenharia de Computação pelo IFPB voltado em desenvolvimento backend. Objetivo na construção de sistemas robustos e escaláveis, com sólidos conhecimentos em boas práticas de programação, arquitetura de software e documentação de código. Atualmente com foco em Java, mas consigo transpor minhas habilidades para quaisquer paradigmas lógicos.
 
