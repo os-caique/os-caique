@@ -9,7 +9,7 @@ Bacharel em Engenharia de Computação pelo IFPB voltado em desenvolvimento back
 - Design de APIs RESTful (Swagger/OpenAPI)
 - Testes automatizados: JUnit 5, Mockito
 
-** C# **
+**C#**
 - ASP.NET Core
 - ORM | Entity Framework
 
