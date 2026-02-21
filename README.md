@@ -14,7 +14,7 @@ Bacharel em Engenharia de Computação pelo IFPB voltado em desenvolvimento back
 - ASP.NET Core
 - ORM | Entity Framework
 
-**Ferramentas de Habilidades**
+**Ferramentas e Habilidades**
 - MySQL | PostgreSQL
 - Git | GitHub
 - Docker
