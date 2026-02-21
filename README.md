@@ -6,21 +6,20 @@ Bacharel em Engenharia de Computação pelo IFPB voltado em desenvolvimento back
 
 **Java**
 - Spring Boot 3 | Spring MVC | Spring Data JPA | Spring Security
-- Design de APIs RESTful (Swagger/OpenAPI)
-- Testes automatizados: JUnit 5, Mockito
+- JUnit 5, Mockito
+- Maven | Gradle
+- Hibernate | Flyway
 
 **C#**
 - ASP.NET Core
 - ORM | Entity Framework
 
 **Ferramentas de Habilidades**
-- MySQL, PostgreSQL
-- Hibernate | Flyway
-- Maven | Gradle
-- Git (Git Flow) | GitHub
+- MySQL | PostgreSQL
+- Git | GitHub
 - Docker
-- Json
-- Clean Code, SOLID e Design Patterns
+- JWT
+- Clean Code | SOLID | Design Patterns
 
 ## 📫 Contato
 - LinkedIn: linkedin.com/in/caiqueos
